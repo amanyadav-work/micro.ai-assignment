@@ -33,7 +33,7 @@ const Header = () => {
     
     return (
         <>
-            <p className="text-background bg-foreground text-center w-full p-2.5  text-sm underline"><BellDotIcon className="inline-block size-4 mr-2" /> Micro.ai named one of 2025's most innovative companies   <ArrowUpFromDotIcon className="rotate-90 inline-block size-4 ml-2" />         </p>
+            <p className="text-background bg-foreground text-center w-full p-2.5  text-sm underline"><BellDotIcon className="inline-block size-4 mr-2" /> Micro.ai named one of 2025&apos;s most innovative companies   <ArrowUpFromDotIcon className="rotate-90 inline-block size-4 ml-2" />         </p>
             <header className="py-4 min-h-21">
                 <div className={`container max-w-[1400px] mx-auto sm:px-6 lg:px-8 ${isFixed?"fixed" :"relative"} top-3 transition-all duration-[5s] left-0 right-0 z-50 bg-transparent `}>
                     {/* Desktop Menu */}

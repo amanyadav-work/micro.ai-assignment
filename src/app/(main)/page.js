@@ -300,7 +300,7 @@ const Page = () => {
 
       <section className=" py-50 border-t ">
         <div className="container  max-w-xl font-medium text-3xl mx-auto px-4 sm:px-6 lg:px-8">
-          Identify world-class talent that wouldn't typically be visible through legacy recruitment methods
+          Identify world-class talent that wouldn&apos;t typically be visible through legacy recruitment methods
         </div>
       </section>
 
